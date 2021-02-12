@@ -222,9 +222,7 @@ As part of fleshing out the scope of your requirements, you'll also need to keep
 \end{itemize}
 
 \subsection{Use Cases}
-This subsection is arguably part of how you define your project scope (why it is in the Scope section...).  In a traditional Waterfall approach, as part of your requirements gathering phase (what does the product actually \emph{need} to do?), you will typically sit down with a user to develop use cases.
-
-You should have a table listing all use cases discussed in the document, the ID is just the order it is listed in, the name should be indicative of what should happen, the primary actor is typically most important in an application where you may have different levels of users (think admin vs normal user), complexity is a best-guess on your part as to how hard it should be.  A lower number in priority indicates that it needs to happen sooner rather than later.  A sample table, or Use Case Index can be seen in Table \ref{tab:useCaseIndex}.
+Here are some brief examples of how the game should work.
 
 
 
@@ -249,40 +247,46 @@ Use Case ID & Use Case Name & Primary Actor & Complexity & Priority \\
 \begin{itemize}
 \item[Use Case Number:] 1
 \item[Use Case Name:] Player starts a new game
-\item[Description:] A shopper on our site has identified an item they wish to buy.  They will click on a ``Add to Cart" button.  This will kick off a process to add one instance of the item to their cart.
+\item[Description:] A player starts the game in easy difficulty. Player will click on "Easy" button. This will load the easy level game page with first question and options for answer on the screen.
 \end{itemize}
 
-You will then go on to (minimally) discuss a basic flow for the process:
 
 \begin{enumerate}
-\item User navigates to page listing desired item
-\item User left-clicks on ``Add to Cart" button.
-\item User cart is updated to reflect the new item, this also updates the current total.
-\item[Termination Outcome:] The user now has a single instance of the item in their cart.
+\item Player loads the game which will load the start menu on the screen.
+\item Player will left-click on the "Easy" button.
+\item The easy difficulty game will load on the screen with first question and the options for answer on the screen with a timer.
+\item Player will choose one of the options for the answer by left-clicking on the button.
+\item If the selected answer is correct, it will turn the answer button "green" and will show a dialogue box with more information about the topic which was in the question.
+\item[Termination Outcome:] If the timer ends for first question, it will skip the first question and will show second question.
 \end{enumerate}
 
-You may need to also add in any alternative flows:
-
-Alternative: Item already exists in the cart
-\begin{enumerate}
-\item User navigates to page listing desired item
-\item User left-clicks on ``Add to Cart" button.
-\item User cart is updated to reflect the new item, showing that one more instance of the existing item has been added.  This also updates the current total.
-\item[Termination Outcome:] The user now has multiple instances of the item in their cart.
-\end{enumerate}
-
-You will often also need to include pictures or diagrams.  It is quite common to see use-case diagrams in such write-ups.  To properly reference an image, you will need to use the \texttt{figure} environment and will need to reference it in your text (via the \texttt{ref} command) (see Figure \ref{cat1}).  NOTE: this is not a use case diagram, but a kitten.
-
-After fully describing a use case, it is time to move on to the next use case:
 
 \begin{itemize}
 \item[Use Case Number:] 2
-\item[Use Case Name:] Checkout
-\item[Description:] A shopper on our site has finished shopping.  They will click on a ``Checkout" button.  This will kick off a process to calculate cart total, any taxes, shipping rates, and collect payment from the shopper.
-
+\item[Use Case Name:] Pause
+\item[Description:] If the player wants to pause the game, player will click on the pause menu and it will pause the timer and will show the pause menu.
 \end{itemize}
 
-You will then need to continue to flesh out all use cases you have identified for your project.
+
+\begin{enumerate}
+\item Player will left-click on the "Pause" button, which will open the pause page on screen.
+\item Clicking pause button will pause the timer and will show the pause menu.
+\item The pause menu shows "Resume", "Restart", "Volume", and "Exit" options for the player to choose.
+\end{enumerate}
+
+
+\begin{itemize}
+\item[Use Case Number:] 3
+\item[Use Case Name:] Restart
+\item[Description:] If the player wants to restart the game, player will click on the restart button and it will restart the whole game with same difficulty and reset score and time.
+\end{itemize}
+
+
+\begin{enumerate}
+\item After game getting paused by the player, the player left-clicks on the "Restart" button.
+\item This will restart the whole game with the same difficulty level, reset score and time.
+\item The player continues to play the game again.
+\end{enumerate}
 
 \begin{figure}[ht!]
 \includegraphics[height=250px, width=350px]{cat1.jpg}
