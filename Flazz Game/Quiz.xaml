@@ -5,4 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Flazz_Game"
         mc:Ignorable="d"
-        Title="Quiz" Height="450" Width="800"/>
+        Title="Quiz" Height="450" Width="800">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="272" Height="63" Margin="230,145,0,0"/>
+
+    </Grid>
+</Window>

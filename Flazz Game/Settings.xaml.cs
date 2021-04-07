@@ -42,5 +42,14 @@ namespace Flazz_Game
         {
 
         }
+
+        private void Main_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow main = new MainWindow();
+            main.Show();
+            Settings settings = new Settings();
+            this.Visibility = Visibility.Hidden;//https://stackoverflow.com/questions/33823326/this-close-doesnt-work-in-window-wpf/33823397
+            settings.Close();
+        }
     }
 }

@@ -11,6 +11,7 @@
         <Button Name="Dark" Content="Dark" HorizontalAlignment="Left" VerticalAlignment="Top" Width="217" Margin="255,217,0,0" Height="70" FontSize="36" Click="Dark_Click"/>
         <Button Name="Light" Content="Light" HorizontalAlignment="Left" VerticalAlignment="Top" Width="217" Margin="255,287,0,0" Height="70" FontSize="36" Click="Light_Click"/>
         <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="            Settings" VerticalAlignment="Top" Height="106" Width="782" FontSize="72"/>
+        <Button Name="Main" Content="Main_menu" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" Height="67" Margin="685,352,0,0" Click="Main_Click"/>
 
     </Grid>
 </Window>
