@@ -26,7 +26,7 @@ namespace Flazz_Game
 
         private void Button_Click(object sender, RoutedEventArgs e)//Categories
         {
-
+           //check
 
         }
         private void Button_Click_1(object sender, RoutedEventArgs e) {//Difficulty
