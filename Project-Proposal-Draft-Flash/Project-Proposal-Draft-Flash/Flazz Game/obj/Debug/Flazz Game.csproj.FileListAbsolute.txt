@@ -1,0 +1,23 @@
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\bin\Debug\Flazz Game.exe.config
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\bin\Debug\Flazz Game.exe
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\bin\Debug\Flazz Game.pdb
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz Game.csprojAssemblyReference.cache
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Difficulty.g.cs
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\MainWindow.g.cs
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Quiz.g.cs
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Settings.g.cs
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Start_Menu.g.cs
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\App.g.cs
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz Game_MarkupCompile.cache
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz Game_MarkupCompile.lref
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Difficulty.baml
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\MainWindow.baml
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Quiz.baml
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Settings.baml
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Start_Menu.baml
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz Game.g.resources
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz_Game.Properties.Resources.resources
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz Game.csproj.GenerateResource.cache
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz Game.csproj.CoreCompileInputs.cache
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz Game.exe
+C:\Users\Vrushank Mali\Downloads\Project-Proposal-Draft-Flash (1)\Project-Proposal-Draft-Flash\Flazz Game\obj\Debug\Flazz Game.pdb
