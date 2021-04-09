@@ -33,7 +33,7 @@ namespace Flazz_Game
         {
             Answer.Background = Brushes.Green;
 
-            Wrong_1.Click -= Wrong_1_Click;
+            Wrong_1.Click -= Wrong_1_Click;//https://stackoverflow.com/questions/34284232/disable-click-button-event-c-sharp
             Wrong_2.Click -= Wrong_2_Click;
             Wrong_3.Click -= Wrong_3_Click;
         }
